@@ -1,7 +1,7 @@
 {
   "name": "hacker-news-api",
   "version": "1.0.0",
-  "homepage" : "homepage": "https://github.com/kashishpopli/Hacker-news",
+  "homepage" : "https://github.com/kashishpopli/Hacker-news",
   "description": "newapp",
   "main": "index.js",
   "scripts": {
